@@ -10,3 +10,6 @@ wheels/
 .venv
 *.pdf
 *.csv
+
+# raw outputs
+\outputs
